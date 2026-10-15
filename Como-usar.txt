@@ -10,9 +10,9 @@ A apresentação solicita tela cheia ao abrir. Se o navegador exigir interação
 clique em Entrar em tela cheia. Também é possível continuar na janela atual.
 
 NOME DO CLIENTE, EMPRESA, FOTO E PLANOS
-Clique em Personalizar para informar o cliente e a empresa, inserir a foto do
-André (página 2) e a imagem da
-tela de planos (página 9). Use PNG, JPG ou WebP de até 12 MB cada.
+A foto do André é fixa na página 2.
+Clique em Personalizar para informar o cliente e a empresa e inserir a tela de
+planos da página 9. Use PNG, JPG ou WebP de até 12 MB.
 Depois clique em Baixar HTML personalizado.
 Os nomes e as imagens são incorporados à cópia baixada e não precisam ser enviadas separadamente.
 Sem baixar a cópia, as alterações duram apenas enquanto a página permanecer aberta.
