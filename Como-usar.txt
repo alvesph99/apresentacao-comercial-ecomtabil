@@ -1,0 +1,32 @@
+E-COMTABIL — APRESENTAÇÃO COMERCIAL
+
+Abra E-comtabil-apresentacao.html no Chrome, Edge, Firefox ou Safari.
+O arquivo funciona offline e contém a identidade visual, a fonte e as animações.
+
+NAVEGAÇÃO
+Use as setas da apresentação ou do teclado. O botão Páginas abre o índice.
+Em celular, use as setas ou deslize horizontalmente.
+A apresentação solicita tela cheia ao abrir. Se o navegador exigir interação,
+clique em Entrar em tela cheia. Também é possível continuar na janela atual.
+
+NOME DO CLIENTE, EMPRESA, FOTO E PLANOS
+Clique em Personalizar para informar o cliente e a empresa, inserir a foto do
+André (página 2) e a imagem da
+tela de planos (página 9). Use PNG, JPG ou WebP de até 12 MB cada.
+Depois clique em Baixar HTML personalizado.
+Os nomes e as imagens são incorporados à cópia baixada e não precisam ser enviadas separadamente.
+Sem baixar a cópia, as alterações duram apenas enquanto a página permanecer aberta.
+Se o navegador embutido não permitir o download, abra o HTML em um navegador comum.
+
+COMPARTILHAMENTO E PUBLICAÇÃO
+Envie o HTML personalizado como arquivo ou publique-o em uma hospedagem estática.
+Para usá-lo como página inicial de um site, renomeie a cópia para index.html.
+Não é necessário instalar pacotes ou executar uma compilação.
+Links de contato e o site institucional precisam de internet.
+
+ESTRUTURA
+11 páginas. André na página 2, Minas Gerais na página 7, planos na página 9.
+O encerramento conduz à continuidade da proposta após a conversa inicial.
+
+Fonte incorporada: Ubuntu. Copyright 2011 Canonical Ltd.
+Licensed under the Ubuntu Font Licence 1.0.
